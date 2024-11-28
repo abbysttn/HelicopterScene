@@ -19,5 +19,5 @@ a/d               : Strafe left or right
 
 ## 📩 How to play? 📩
 
-#### All you need to do is download the files as a zip folder from the code button above. Extract those and look for the debug folder in the main extracted folder.
-#### Within that Debug folder should be a file called "CGProject2.exe". Double click this and you are good to go!
+#### All you need to do is download the files as a zip folder from the code button above. Extract those and open the project in Visual Studio
+#### Once the project is opened, press the run button at the top and you are good to go!
