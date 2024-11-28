@@ -5,6 +5,10 @@ This is a simple but fun computer graphics application where you can fly a helic
 I’m using C and OpenGL to bring this project to life, as well as hierarchical modeling, lighting, and animations. If you’re into exploring scenes or just want to see a helicopter gracefully take off and land, this might be for you!
 
 ## 📸 Scene Preview 📸
+<img src="https://github.com/user-attachments/assets/c6af8dd1-6e43-4644-b397-ebd23ed81d49" height="160">
+<img src="https://github.com/user-attachments/assets/580f279e-6166-48a0-8af8-4ef3f4c1a624" height="160">
+<img src="https://github.com/user-attachments/assets/25d61f78-112c-44fc-a7dd-6c827f2212ea" height="160">
+<img src="https://github.com/user-attachments/assets/13d484cb-54bd-47e5-bd62-a2ef00beae0b" height="160">
 
 ## 🚀 What you can do 🚀
 
